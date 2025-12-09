@@ -13,4 +13,4 @@ elif login_digitado == "guest" or senha_digitada == "123456":
     print ("Acesso Negado: Credenciais de baixo risco ou padrão de segurança.")
 
 else:
-print ("Erro de Acesso: Login ou senha inválidos.")
+    print ("Erro de Acesso: Login ou senha inválidos.")
